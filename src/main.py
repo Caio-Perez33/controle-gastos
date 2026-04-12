@@ -31,7 +31,7 @@ def adicionar():
 
         print("Gasto adicionado com sucesso!")
 
-    except:
+    except Exception:
         print("Erro ao adicionar")
 
 
@@ -84,7 +84,7 @@ def alterar_valor():
 
         salvar(dados)
 
-    except:
+    except Exception:
         print("Erro na operação")
 
 
