@@ -45,5 +45,5 @@ pytest
 
 ---
 
-Autor: Caio Perez  
+Autor: Caio de Almeida Perez  
 Versão: 1.0.0  
